@@ -13,4 +13,3 @@ export const getShowById = (id) => {
     });
 };
 
-getShowById(1);
